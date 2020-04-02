@@ -17,3 +17,9 @@ I've uploaded few maps, will add more.
 
 ## China
 ![China Map](https://github.com/sahil9001/covid-interactive-map/blob/master/China/Peek%202020-04-02%2012-33.gif)
+
+## UK
+![UK Map](https://github.com/sahil9001/covid-interactive-map/blob/master/Britain/Peek%202020-04-02%2013-21.gif)
+
+## Germany
+![Germany map](https://github.com/sahil9001/covid-interactive-map/blob/master/Germany/Peek%202020-04-02%2014-01.gif)
