@@ -26,3 +26,11 @@ I've uploaded few maps, will add more.
 
 ## Canada
 ![Canada map](https://github.com/sahil9001/covid-interactive-map/blob/master/Canada/Peek%202020-04-02%2014-20.gif)
+
+
+## Japan
+![Japan map](https://github.com/sahil9001/covid-interactive-map/blob/master/Japan/Peek%202020-04-02%2019-48.gif)
+
+
+## Italy
+![Italy map](https://github.com/sahil9001/covid-interactive-map/blob/master/Italy/Peek%202020-04-02%2020-03.gif)
