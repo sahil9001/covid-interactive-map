@@ -14,3 +14,6 @@ I've uploaded few maps, will add more.
 
 ## Australia
 ![Australia map](https://github.com/sahil9001/covid-interactive-map/blob/master/Australia/Peek%202020-04-01%2022-15.gif)
+
+## China
+![China Map](https://github.com/sahil9001/covid-interactive-map/blob/master/China/Peek%202020-04-02%2012-33.gif)
