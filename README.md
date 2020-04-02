@@ -23,3 +23,6 @@ I've uploaded few maps, will add more.
 
 ## Germany
 ![Germany map](https://github.com/sahil9001/covid-interactive-map/blob/master/Germany/Peek%202020-04-02%2014-01.gif)
+
+## Canada
+![Canada map](https://github.com/sahil9001/covid-interactive-map/blob/master/Canada/Peek%202020-04-02%2014-20.gif)
