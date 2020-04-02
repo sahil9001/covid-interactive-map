@@ -34,3 +34,12 @@ I've uploaded few maps, will add more.
 
 ## Italy
 ![Italy map](https://github.com/sahil9001/covid-interactive-map/blob/master/Italy/Peek%202020-04-02%2020-03.gif)
+
+## Switzerland
+![Switzerland map](https://github.com/sahil9001/covid-interactive-map/blob/master/Switzerland/Peek%202020-04-02%2020-49.gif)
+
+## Austria
+![Austria map](https://github.com/sahil9001/covid-interactive-map/blob/master/Austria/Peek%202020-04-02%2020-52.gif)
+
+## Brazil
+![Brazil map](https://github.com/sahil9001/covid-interactive-map/blob/master/Brazil/Peek%202020-04-02%2020-54.gif)
