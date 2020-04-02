@@ -13,6 +13,7 @@ async function drawVisualization() {
             data.forEach(element => {
                 obj.push([element["Long name"],parseInt(element["Confirmed cases (cumulative)"])])
             });
+            obj.pop();
             console.log(obj)
         })
         .catch(error => console.error(error))
