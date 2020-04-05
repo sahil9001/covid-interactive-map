@@ -20,7 +20,7 @@ async function drawVisualization() {
             obj[3][0]="CN-43";
             obj[4][0]="CN-44";
             obj[5][0]="CN-33";
-            obj[6][0]="CN-51";
+            obj[6][0]="CN-42";
             obj[7][0]="CN-32";
             obj[8][0]="CN-37";
             obj[9][0]="CN-31";
@@ -33,7 +33,7 @@ async function drawVisualization() {
             obj[16][0]="CN-91";
             obj[17][0]="CN-71";
             obj[18][0]="CN-12";
-            obj[19][0]="CN-42";
+            obj[19][0]="CN-51";
             obj[20][0]="CN-61";
             obj[21][0]="CN-21";
             obj[22][0]="CN-14";
